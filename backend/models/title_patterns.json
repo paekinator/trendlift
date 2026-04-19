@@ -1,0 +1,882 @@
+[
+  {
+    "cluster_id": 0,
+    "median_word_count": 9.0,
+    "median_char_count": 46.0,
+    "median_caps_ratio": 0.18,
+    "question_rate": 0.049,
+    "exclamation_rate": 0.799,
+    "colon_rate": 0.0098,
+    "number_rate": 0.2819,
+    "top_first_words": {
+      "\ud83d\udd34[live]": 63,
+      "\ud83d\udd34[live": 55,
+      "road": 36,
+      "free": 15,
+      "br": 11
+    },
+    "example_titles": [
+      "Insane Situation \ud83d\udc80!! But ... !!",
+      "Beast Mode On \ud83d\udc80!!",
+      "\ud83d\udd34[Live]  Region Lobby Live Rank Push  - Free Fire Live !!"
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "median_word_count": 17.0,
+    "median_char_count": 98.0,
+    "median_caps_ratio": 0.11,
+    "question_rate": 0.001,
+    "exclamation_rate": 0.001,
+    "colon_rate": 0.002,
+    "number_rate": 0.1431,
+    "top_first_words": {
+      "kartika": 56,
+      "maa": 40,
+      "watch": 37,
+      "\u0b15\u0b3e\u0b30\u0b4d\u0b24\u0b4d\u0b24\u0b3f\u0b15": 31,
+      "sri": 22
+    },
+    "example_titles": [
+      "Santoshi Maa Gahani | Gita Dash | Durga Puja Special Bhajan | Sidharth Bhakti",
+      "Gahani - Debasilpi Biswakarma Mahatmya | Full Video | \u0b26\u0b47\u0b2c\u0b36\u0b3f\u0b33\u0b4d\u0b2a\u0b40 \u0b2c\u0b3f\u0b36\u0b4d\u0b35\u0b15\u0b30\u0b4d\u0b2e\u0b3e \u0b2e\u0b3e\u0b39\u0b3e\u0b24\u0b4d\u0b2e\u0b4d\u0b5f | Sri Charana",
+      "Maa Mora Maa Lo - Odia Bhajan Jukebox | Best Of Maa Tarini Bhajans | \u0b2e\u0b3e'\u0b2e\u0b4b\u0b30 \u0b2e\u0b3e'\u0b32\u0b4b | Sidharth Music"
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "median_word_count": 16.0,
+    "median_char_count": 92.0,
+    "median_caps_ratio": 0.1399,
+    "question_rate": 0.0117,
+    "exclamation_rate": 0.0117,
+    "colon_rate": 0.0826,
+    "number_rate": 0.072,
+    "top_first_words": {
+      "full": 44,
+      "the": 25,
+      "dialogue:": 20,
+      "mask": 11,
+      "hey": 9
+    },
+    "example_titles": [
+      "Yellow - Trailer | Delhi Ganesh | Poornima Ravi | Vaibhav Murugesan | Hari Mahadevan",
+      "Hotspot 2 Much - Official Teaser | Vignesh Karthick | KJB Talkies | Ants To Elephants Cinemas Co",
+      "Dr Chaplin Lolly - A Therapist Dialogue | Retro | Jayaram,Joju George | Santhosh Narayanan"
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "median_word_count": 9.0,
+    "median_char_count": 52.0,
+    "median_caps_ratio": 0.225,
+    "question_rate": 0.0499,
+    "exclamation_rate": 0.0577,
+    "colon_rate": 0.1102,
+    "number_rate": 0.4173,
+    "top_first_words": {
+      "j-hope": 232,
+      "\uc9c4": 196,
+      "[\ub2ec\ub824\ub77c": 176,
+      "[episode]": 88,
+      "[bangtan": 76
+    },
+    "example_titles": [
+      "[\ub2ec\ub824\ub77c \uc11d\uc9c4] \ub2e4\uc2dc \ub2ec\ub9bd\ub2c8\ub2e4\ud83d\udca8 \ucee4\ubc0d\uc468...",
+      "[BANGTAN BOMB] Jung Kook Unwinds in Qatar - BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8)",
+      "j-hope \u2018MONA LISA (Afropop Remix)\u2019 Visualizer"
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "median_word_count": 7.0,
+    "median_char_count": 42.0,
+    "median_caps_ratio": 0.1923,
+    "question_rate": 0.0598,
+    "exclamation_rate": 0.0338,
+    "colon_rate": 0.0078,
+    "number_rate": 0.4579,
+    "top_first_words": {
+      "jynxzi": 369,
+      "i": 123,
+      "the": 54,
+      "can": 39,
+      "jynxzi's": 27
+    },
+    "example_titles": [
+      "Rainbow Six Siege, but my viewers troll me...",
+      "We Broke Up...",
+      "Who is the #1 Console Rainbow Six Siege Player?"
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "median_word_count": 7.0,
+    "median_char_count": 41.0,
+    "median_caps_ratio": 0.4865,
+    "question_rate": 0.0065,
+    "exclamation_rate": 0.5336,
+    "colon_rate": 0.0,
+    "number_rate": 0.1438,
+    "top_first_words": {
+      "i": 171,
+      "new": 132,
+      "caylus": 57,
+      "taco": 48,
+      "steal": 35
+    },
+    "example_titles": [
+      "Grow a Garden ZEN EVENT Update!",
+      "i hid this..",
+      "NEW UPDATE 99 Nights in the Forest!"
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "median_word_count": 9.0,
+    "median_char_count": 54.0,
+    "median_caps_ratio": 0.1687,
+    "question_rate": 0.0044,
+    "exclamation_rate": 0.0698,
+    "colon_rate": 0.2251,
+    "number_rate": 0.7246,
+    "top_first_words": {
+      "the": 365,
+      "avengers": 66,
+      "supergirl": 35,
+      "one": 27,
+      "mortal": 27
+    },
+    "example_titles": [
+      "House Of David Season 2 - Official Trailer | Prime Video India",
+      "The Mandalorian & Grogu Trailer 2026: Ahsoka Season 2 & Hidden Details!",
+      "Dear Santa | He Wrote Letter to The wrong Santa  \ud83e\uddd1\u200d\ud83c\udf84 #foryou #shorts"
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "median_word_count": 8.0,
+    "median_char_count": 47.0,
+    "median_caps_ratio": 0.1296,
+    "question_rate": 0.02,
+    "exclamation_rate": 0.1531,
+    "colon_rate": 0.0233,
+    "number_rate": 0.1065,
+    "top_first_words": {
+      "i": 117,
+      "carry": 58,
+      "this": 43,
+      "the": 34,
+      "we": 21
+    },
+    "example_titles": [
+      "CAN I SURVIVE ON ONE CHUNK WITH DOORBIN IN MINECRAFT !!!!",
+      "I Sneaked into Doorbin's drink to Trolled him..",
+      "I Become Winner in Pooping in Roblox.."
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "median_word_count": 11.0,
+    "median_char_count": 74.0,
+    "median_caps_ratio": 0.1111,
+    "question_rate": 0.0684,
+    "exclamation_rate": 0.1077,
+    "colon_rate": 0.0364,
+    "number_rate": 0.1567,
+    "top_first_words": {
+      "the": 84,
+      "when": 39,
+      "he": 32,
+      "this": 32,
+      "a": 28
+    },
+    "example_titles": [
+      "The Iconic Confusion of Bhagam Bhag \ud83e\udd23 | Akshay Kumar, Govinda, Paresh Rawal #movie #primevideoindia",
+      "Easy tips\ud83d\ude1d| #naveenricky #shorts",
+      "When Param Met Sundari \ud83e\udef6\ud83c\udffb | Janhvi Kapoor, Sidharth Malhotra | Param Sundari #primevideoindia #movie"
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "median_word_count": 9.0,
+    "median_char_count": 54.5,
+    "median_caps_ratio": 0.125,
+    "question_rate": 0.1091,
+    "exclamation_rate": 0.4625,
+    "colon_rate": 0.1987,
+    "number_rate": 0.2883,
+    "top_first_words": {
+      "my": 525,
+      "brawl": 456,
+      "the": 60,
+      "what": 54,
+      "it's": 30
+    },
+    "example_titles": [
+      "My Singing Monsters - 'Monster Mythos' with Monster-Handler Charlie (Feast-Ember 2024)",
+      "\ud83c\udf89It's almost time to kick off Anniversary Month 2025\ud83c\udf89",
+      "Brawl Stars: Mecha Mayhem"
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "median_word_count": 9.0,
+    "median_char_count": 49.0,
+    "median_caps_ratio": 0.0282,
+    "question_rate": 0.0056,
+    "exclamation_rate": 0.2167,
+    "colon_rate": 0.0472,
+    "number_rate": 0.0667,
+    "top_first_words": {
+      "laufey": 180,
+      "thank": 36,
+      "i": 30,
+      "a": 30,
+      "from": 24
+    },
+    "example_titles": [
+      ":)",
+      "From The Start is out May 11! \u2764\ufe0f Pre-save in my bio!! (AAAAAAAH)",
+      "all cutie patootie \ud83e\udd0d\ud83e\udd0d\ud83e\udd0d\ud83e\udd72 #newmusic"
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "median_word_count": 7.0,
+    "median_char_count": 42.0,
+    "median_caps_ratio": 0.1471,
+    "question_rate": 0.0225,
+    "exclamation_rate": 0.0032,
+    "colon_rate": 0.0032,
+    "number_rate": 0.0997,
+    "top_first_words": {
+      "loe": 183,
+      "baby": 41,
+      "babydrill": 40,
+      "z": 4,
+      "shimmy": 4
+    },
+    "example_titles": [
+      "\ud83c\udfa5BTS LOE SHIMMY & WIZZ HAVINNS NEW VIDEO #loeshimmy #wizzhavinn",
+      "Baby Drill - Slight Dub (Official Video) feat. 21 Savage & Young Nudy",
+      "Loe Shimmy & Wizz Havinn - Zuper (Official Video)"
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "median_word_count": 9.0,
+    "median_char_count": 52.0,
+    "median_caps_ratio": 0.1237,
+    "question_rate": 0.0042,
+    "exclamation_rate": 0.0042,
+    "colon_rate": 0.0252,
+    "number_rate": 0.1666,
+    "top_first_words": {
+      "gorillaz": 974,
+      "#gorillaz": 66,
+      "the": 15,
+      "k": 8,
+      "fortnite": 6
+    },
+    "example_titles": [
+      "Gorillaz - O Green World - Demon Days",
+      "K For Kabaradakkam - Dubstep Folk | Alvin Bruno | Guruvayoorambala Nadayil | Ankit Menon",
+      "A message from 2D of Gorillaz: Stay Home"
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "median_word_count": 20.0,
+    "median_char_count": 97.0,
+    "median_caps_ratio": 0.09,
+    "question_rate": 0.0,
+    "exclamation_rate": 0.0246,
+    "colon_rate": 0.002,
+    "number_rate": 0.6824,
+    "top_first_words": {
+      "#video": 275,
+      "#raushan": 37,
+      "#4k": 17,
+      "#teaser": 14,
+      "\u0906": 9
+    },
+    "example_titles": [
+      "#Raushan Rohi \u0915\u093e \u0938\u092c\u0938\u0947 \u091c\u092c\u0930\u0926\u0938\u094d\u0924 \u0935\u0940\u0921\u093f\u092f\u094b | \u0938\u0908\u092f\u093e \u0915\u0947 \u091a\u093f\u091c\u092c\u093e \u0930\u093e\u092e\u093e \u0926\u093e\u092e\u093e | #\u0930\u094c\u0936\u0928 \u0930\u094b\u0939\u0940 | New Maghi Song 2022",
+      "#Raushan Rohi | 16 \u0915\u0947 Age \u092e\u0947\u0902 Image #\u0930\u0902\u0917\u0926\u093e\u0930 \u0915\u0947 | #Sonam Yadav | New #Rangdari #Maghi Song 2025",
+      "#Teaser | \u092a\u0948\u092e\u094d\u0939\u0940 \u0921\u0930\u0947\u0935\u0930\u093e \u092d\u0924\u093e\u0930 \u091b\u094c\u095c\u0947 \u091b\u094c\u095c\u0947 | #Ashish Yadav \u0915\u093e \u090f\u0915 \u0914\u0930 \u092c\u094d\u0932\u093e\u0938\u094d\u091f \u0938\u093e\u0902\u0917 | #Magahi Song 2026"
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "median_word_count": 6.0,
+    "median_char_count": 34.0,
+    "median_caps_ratio": 0.1935,
+    "question_rate": 0.0733,
+    "exclamation_rate": 0.0871,
+    "colon_rate": 0.0022,
+    "number_rate": 0.0827,
+    "top_first_words": {
+      "i": 317,
+      "this": 181,
+      "the": 69,
+      "caseoh": 68,
+      "my": 67
+    },
+    "example_titles": [
+      "I Gave Chat My Health Update #funny #caseoh #meme #viralshort",
+      "This Moment Broke My Heart #funny #caseoh #meme #viralshort",
+      "These Battles Were Absolute Cinema"
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "median_word_count": 7.0,
+    "median_char_count": 43.0,
+    "median_caps_ratio": 0.4,
+    "question_rate": 0.0028,
+    "exclamation_rate": 0.0455,
+    "colon_rate": 0.0284,
+    "number_rate": 0.4801,
+    "top_first_words": {
+      "ive": 30,
+      "cravity": 30,
+      "[\ubaac\ucc44\ub110][b]": 30,
+      "[making": 24,
+      "[special": 21
+    },
+    "example_titles": [
+      "[Special Clip] \uc6b0\uc8fc\uc18c\ub140 \ub354 \ube14\ub799 (WJSN THE BLACK) - Easy \uc751\uc6d0\ubc95",
+      "[TEASER] \uac15\ub2e4\ub2c8\uc5d8(KANGDANIEL), \uc544\uc774\ube0c \uc548\uc720\uc9c4(IVE ANYUJIN) - Move Like This (Feat. \uae40\uc5f0\uc544 (YUNA KIM))",
+      "[Performance MV] \uc6b0\uc8fc\uc18c\ub140 (WJSN) - UNNATURAL"
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "median_word_count": 16.0,
+    "median_char_count": 93.0,
+    "median_caps_ratio": 0.1319,
+    "question_rate": 0.0057,
+    "exclamation_rate": 0.0499,
+    "colon_rate": 0.0178,
+    "number_rate": 0.2854,
+    "top_first_words": {
+      "payal": 299,
+      "#video": 210,
+      "new": 79,
+      "teri": 78,
+      "this": 35
+    },
+    "example_titles": [
+      "Banda Tere Liye | Happy Patel - Khatarnak Jasoos | Vir D, Mithila P | Ash K, Ajay J, Parth P, MxRZI",
+      "Main rehna tere kol... \ud83c\udfb6\ud83e\udd0d#Loveyapa #RehnaKol #KhushiKapoor #Junaidkhan #JubinNautiyal #shorts",
+      "#JaikalMahakal #Goodbye #AmitabhBachchan #RashmikaMandanna #AmitTrivedi #mahashivratri #Shorts"
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "median_word_count": 13.0,
+    "median_char_count": 60.0,
+    "median_caps_ratio": 0.7333,
+    "question_rate": 0.4247,
+    "exclamation_rate": 0.089,
+    "colon_rate": 0.0,
+    "number_rate": 0.6256,
+    "top_first_words": {
+      "aaj": 62,
+      "kya": 52,
+      "serious": 40,
+      "rank": 23,
+      "#1": 18
+    },
+    "example_titles": [
+      "KYA YE SEASON LEGEND HOGA? | 55 SOLO KILLS TODAY? | BGMI LIVE",
+      "LIVE FROM GODLIKE BOOTCAMP | CAN I BREAK MY 58 SOLO KILLS RECORD? | BGMI LIVE",
+      "LEGEND HOKE RAHEGA! | ULTIMATE ROYALE RANK PUSH | BGMI LIVE"
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "median_word_count": 9.0,
+    "median_char_count": 58.0,
+    "median_caps_ratio": 0.1186,
+    "question_rate": 0.0566,
+    "exclamation_rate": 0.0713,
+    "colon_rate": 0.7884,
+    "number_rate": 0.615,
+    "top_first_words": {
+      "metallica:": 621,
+      "\ud83c\udfa7": 18,
+      "metallica": 16,
+      "this": 12,
+      "\u201ctake": 6
+    },
+    "example_titles": [
+      "Metallica: Of Wolf and Man (Mexico City, Mexico - September 27, 2024)",
+      "Metallica: Poor Twisted Me (Lyric Video)",
+      "Metallica: No Leaf Clover (Mexico City, Mexico - September 27, 2024)"
+    ]
+  },
+  {
+    "cluster_id": 19,
+    "median_word_count": 12.0,
+    "median_char_count": 68.0,
+    "median_caps_ratio": 0.1852,
+    "question_rate": 0.0279,
+    "exclamation_rate": 0.1649,
+    "colon_rate": 0.4027,
+    "number_rate": 0.6757,
+    "top_first_words": {
+      "stranger": 117,
+      "the": 75,
+      "fallout": 66,
+      "daredevil": 51,
+      "a": 48
+    },
+    "example_titles": [
+      "A Knight Of The Seven Kingdoms Episode 2 Trailer Breakdown & House Of The Dragon Easter Eggs",
+      "The whole party's here. 17 DAYS UNTIL STRANGER THINGS 5",
+      "Avengers Doomsday Teaser Trailer Breakdown & Easter Eggs"
+    ]
+  },
+  {
+    "cluster_id": 20,
+    "median_word_count": 9.0,
+    "median_char_count": 51.0,
+    "median_caps_ratio": 0.1346,
+    "question_rate": 0.0291,
+    "exclamation_rate": 0.0315,
+    "colon_rate": 0.2502,
+    "number_rate": 0.3253,
+    "top_first_words": {
+      "the": 175,
+      "love": 55,
+      "a": 37,
+      "one": 30,
+      "war": 23
+    },
+    "example_titles": [
+      "Mrs Movie REVIEW | Deeksha Sharma",
+      "Cover-Up | Official Trailer | Netflix",
+      "WAR MACHINE | Alan Ritchson, Built Different | Inside Look | Netflix"
+    ]
+  },
+  {
+    "cluster_id": 21,
+    "median_word_count": 9.0,
+    "median_char_count": 47.0,
+    "median_caps_ratio": 0.2466,
+    "question_rate": 0.0276,
+    "exclamation_rate": 0.0382,
+    "colon_rate": 0.0021,
+    "number_rate": 0.9427,
+    "top_first_words": {
+      "[map": 76,
+      "[hindi]": 75,
+      "[english]": 52,
+      "[en]": 25,
+      "bgis": 12
+    },
+    "example_titles": [
+      "[HINDI] realme BMPS 2025 | Group B & A  | Round 2 - Day 2",
+      "[Hindi] BGIS 2026 THE GRIND | Week 2 | Day 3",
+      "[Hindi] BMSD 2025 | Survival Stage | Day 2"
+    ]
+  },
+  {
+    "cluster_id": 22,
+    "median_word_count": 7.0,
+    "median_char_count": 43.0,
+    "median_caps_ratio": 0.3636,
+    "question_rate": 0.0,
+    "exclamation_rate": 0.1863,
+    "colon_rate": 0.0,
+    "number_rate": 0.4639,
+    "top_first_words": {
+      "i": 282,
+      "spending": 123,
+      "roblox": 60,
+      "$0": 42,
+      "opening": 24
+    },
+    "example_titles": [
+      "$0 - $1 Trillion Only Using GREEN BRAINROTS..",
+      "I Pretended To Be a BRAINROT in Steal a Brainrot..",
+      "I Stole The 5 Newest Brainrots!"
+    ]
+  },
+  {
+    "cluster_id": 23,
+    "median_word_count": 8.0,
+    "median_char_count": 46.0,
+    "median_caps_ratio": 0.1892,
+    "question_rate": 0.0202,
+    "exclamation_rate": 0.1454,
+    "colon_rate": 0.0327,
+    "number_rate": 0.1914,
+    "top_first_words": {
+      "i": 285,
+      "minecraft": 196,
+      "minecraft,": 147,
+      "if": 119,
+      "the": 39
+    },
+    "example_titles": [
+      "MINECRAFT MEIN KHOON - Horror Map",
+      "I Troll My sister Using TAXMAN in Minecraft",
+      "Exploring JUPITER in Minecraft"
+    ]
+  },
+  {
+    "cluster_id": 24,
+    "median_word_count": 17.0,
+    "median_char_count": 98.0,
+    "median_caps_ratio": 0.1031,
+    "question_rate": 0.0,
+    "exclamation_rate": 0.0,
+    "colon_rate": 0.0,
+    "number_rate": 0.1004,
+    "top_first_words": {
+      "maa": 24,
+      "\u0b15\u0b3e\u0b30\u0b4d\u0b24\u0b4d\u0b24\u0b3f\u0b15": 18,
+      "sri": 12,
+      "jaya": 8,
+      "aji": 8
+    },
+    "example_titles": [
+      "Sri Asta Lakshmi Stotram - Powerful Laxmi Mantra | Namita Agrawal | \u0b36\u0b4d\u0b30\u0b40 \u0b05\u0b37\u0b4d\u0b1f\u0b32\u0b15\u0b4d\u0b37\u0b4d\u0b2e\u0b40 \u0b38\u0b4d\u0b24\u0b4b\u0b24\u0b4d\u0b30\u0b2e\u0b4d",
+      "Jaya Jaya Mahalaxmi Jagata Janani -Music Video - Manabasa Bhajan | Namita Agrawal | \u0b1c\u0b5f \u0b1c\u0b5f \u0b2e\u0b39\u0b3e\u0b32\u0b15\u0b4d\u0b37\u0b4d\u0b2e\u0b40",
+      "Kaali Gaai Khira De Re & Other Superhit Shiba Bhajans | Namita Agrawal | \u0b15\u0b3e\u0b33\u0b3f \u0b17\u0b3e\u0b08 \u0b15\u0b4d\u0b37\u0b40\u0b30 \u0b26\u0b47\u0b30\u0b47 \u0b17\u0b09\u0b21 \u0b2d\u0b3e\u0b07"
+    ]
+  },
+  {
+    "cluster_id": 25,
+    "median_word_count": 7.0,
+    "median_char_count": 44.0,
+    "median_caps_ratio": 0.125,
+    "question_rate": 0.0,
+    "exclamation_rate": 0.006,
+    "colon_rate": 0.024,
+    "number_rate": 0.1952,
+    "top_first_words": {
+      "\u8521\u4f9d\u6797": 216,
+      "jolin": 41,
+      "ugly": 18,
+      "\u8521\u4f9d\u6797ugly": 17,
+      "the": 6
+    },
+    "example_titles": [
+      "\u8521\u4f9d\u6797 Jolin Tsai - \u5e03\u62c9\u683c\u5ee3\u5834",
+      "\u8521\u4f9d\u6797 Ugly Beauty \u5408\u80a5\u6f14\u5531\u6703 \u751f\u65e5\u5feb\u6a02\u7bc7",
+      "\u8521\u4f9d\u6797 Jolin Tsai - \u67f5\u6b04\u9593\u9699\u5077\u7aba\u4f60 Spying On You Behind The Fence(\u9ad8\u756b\u8ceaHD\u5b8c\u6574\u7248MV)"
+    ]
+  },
+  {
+    "cluster_id": 26,
+    "median_word_count": 8.0,
+    "median_char_count": 48.0,
+    "median_caps_ratio": 0.1304,
+    "question_rate": 0.0751,
+    "exclamation_rate": 0.17,
+    "colon_rate": 0.0079,
+    "number_rate": 0.083,
+    "top_first_words": {
+      "i": 92,
+      "best": 25,
+      "from": 12,
+      "can": 12,
+      "villagers": 11
+    },
+    "example_titles": [
+      "Why this Villager Locked Me in Minecraft..",
+      "10 WAYS TO STEAL THE VILLAGER'S MONEY\ud83d\udcb0",
+      "Who Mined The Best Secret Items in Minecraft?"
+    ]
+  },
+  {
+    "cluster_id": 27,
+    "median_word_count": 9.0,
+    "median_char_count": 52.0,
+    "median_caps_ratio": 0.1405,
+    "question_rate": 0.004,
+    "exclamation_rate": 0.002,
+    "colon_rate": 0.3036,
+    "number_rate": 0.2045,
+    "top_first_words": {
+      "i": 339,
+      "the": 93,
+      "let's": 87,
+      "a": 84,
+      "beating": 75
+    },
+    "example_titles": [
+      "A Desperate Youtuber tries to Craft Himself in Infinite Craft",
+      "I Gave 100 Minecraft Players a 10,000 Block-Long Wall to Build Anything",
+      "Breaking Fallout New Vegas by Killing Everything with Nukes"
+    ]
+  },
+  {
+    "cluster_id": 28,
+    "median_word_count": 8.0,
+    "median_char_count": 48.0,
+    "median_caps_ratio": 0.1562,
+    "question_rate": 0.067,
+    "exclamation_rate": 0.1436,
+    "colon_rate": 0.0617,
+    "number_rate": 0.311,
+    "top_first_words": {
+      "the": 1036,
+      "i": 974,
+      "this": 332,
+      "live": 285,
+      "how": 266
+    },
+    "example_titles": [
+      "Back to Old Free Fire \ud83d\udd70\ufe0f Double Sniper Domination \ud83d\udd25Solo Vs Squad Gameplay | Badge99",
+      "Denzel Washington Enters Wakanda - BLACK PANTHER 3: SHADOWS OF WAKANDA Movie Preview (2028)",
+      "Pure 1v3 GODL in BB SCRIMS\u2026.\ud83e\udd2f"
+    ]
+  },
+  {
+    "cluster_id": 29,
+    "median_word_count": 14.0,
+    "median_char_count": 88.0,
+    "median_caps_ratio": 0.0964,
+    "question_rate": 0.0858,
+    "exclamation_rate": 0.1669,
+    "colon_rate": 0.1526,
+    "number_rate": 0.7497,
+    "top_first_words": {
+      "the": 60,
+      "a": 32,
+      "don\u2019t": 24,
+      "sinners": 20,
+      "you": 20
+    },
+    "example_titles": [
+      "Feel the speed on the big screen like never before. \ud83c\udfce\ufe0f #F1TheMovie \u2013 only in theaters June 27.",
+      "The people love a monster. #TheBrideMovie only in theaters and IMAX March 6.",
+      "A match made in the Overworld. \ud83d\udfe9#MinecraftMovie only in theaters April 4. Get tickets now."
+    ]
+  },
+  {
+    "cluster_id": 30,
+    "median_word_count": 8.0,
+    "median_char_count": 42.0,
+    "median_caps_ratio": 0.15,
+    "question_rate": 0.1809,
+    "exclamation_rate": 0.0699,
+    "colon_rate": 0.2021,
+    "number_rate": 0.424,
+    "top_first_words": {
+      "the": 82,
+      "five": 76,
+      "3": 45,
+      "i'm": 24,
+      "i": 23
+    },
+    "example_titles": [
+      "The Glitched Attraction - Part 4",
+      "Home Safety Hotline",
+      "MASTERS of the PLASM | Demonologist w/ Bob & Wade"
+    ]
+  },
+  {
+    "cluster_id": 31,
+    "median_word_count": 12.0,
+    "median_char_count": 81.0,
+    "median_caps_ratio": 0.5412,
+    "question_rate": 0.0173,
+    "exclamation_rate": 0.119,
+    "colon_rate": 0.0372,
+    "number_rate": 0.223,
+    "top_first_words": {
+      "\ud83d\udd34live": 588,
+      "the": 21,
+      "i": 15,
+      "peanut": 15,
+      "buster": 12
+    },
+    "example_titles": [
+      "\ud83d\udd34LIVE | ARENA BREAKOUT INFINITE | ARENA BREAKOUT INFINITE TOURNAMENT |  #ABIPartner #BUNGULATE",
+      "\ud83d\udd34LIVE | ARC RAIDERS | TESTICULAR TORSION TUESDAY | EXPEDITION TIME | #BUNGULATE",
+      "\ud83d\udd34LIVE | NUT RAIDERS | SILLY GOOSE SATURDAY | #ItsAShartyItsAShartyItsAShartyAYEEEEEEEE #BUNGULATE"
+    ]
+  },
+  {
+    "cluster_id": 32,
+    "median_word_count": 17.0,
+    "median_char_count": 86.0,
+    "median_caps_ratio": 0.1379,
+    "question_rate": 0.1627,
+    "exclamation_rate": 0.1928,
+    "colon_rate": 0.0,
+    "number_rate": 0.6506,
+    "top_first_words": {
+      "new!": 90,
+      "itti": 27,
+      "pushpa": 26,
+      "gatha": 25,
+      "jetha": 18
+    },
+    "example_titles": [
+      "NEW! Ganesh Kartikey | Ep 116 | 17 Feb 2026 | Teaser | Sign up to Sony Liv on YouTube",
+      "Jetha \u0928\u0947 \u0915\u093f\u092f\u093e Purush Mandali \u0915\u094b \u0905\u092a\u0928\u0947 Godown \u092e\u0947\u0902 Welcome | Taarak Mehta Ka Ooltah Chashmah | Hits",
+      "Bapuji \u0915\u094b \u091c\u092c\u0930\u091c\u0938\u094d\u0924\u0940 \u0915\u0939\u093e\u0902 \u0932\u0947 \u091c\u093e \u0930\u0939\u093e \u0939\u0948 Jetha! | Taarak Mehta Ka Ooltah Chashmah | Jasoos Bhide"
+    ]
+  },
+  {
+    "cluster_id": 33,
+    "median_word_count": 8.0,
+    "median_char_count": 47.0,
+    "median_caps_ratio": 0.1392,
+    "question_rate": 0.0084,
+    "exclamation_rate": 0.0168,
+    "colon_rate": 0.0,
+    "number_rate": 0.0504,
+    "top_first_words": {
+      "laufey": 336,
+      "a": 9,
+      "let": 3,
+      "valentine": 3,
+      "join": 3
+    },
+    "example_titles": [
+      "Laufey - Sight Reading 101 (Learn to play Bewitched)",
+      "Laufey & the Iceland Symphony Orchestra - I Wish You Love (Live at The Symphony)",
+      "Laufey - Serendipity (Live From Home)"
+    ]
+  },
+  {
+    "cluster_id": 34,
+    "median_word_count": 10.0,
+    "median_char_count": 51.0,
+    "median_caps_ratio": 0.1474,
+    "question_rate": 0.0921,
+    "exclamation_rate": 0.0854,
+    "colon_rate": 0.1173,
+    "number_rate": 0.2529,
+    "top_first_words": {
+      "the": 23,
+      "he": 22,
+      "she": 16,
+      "you": 13,
+      "this": 9
+    },
+    "example_titles": [
+      "Tamon Loses his Role as Center | Tamon's B-Side",
+      "In the Clear Moonlit Dusk Opening | 'Uruwashi' by Unison Square Garden",
+      "Suzuki is Too Powerful... | You and I Are Polar Opposites"
+    ]
+  },
+  {
+    "cluster_id": 35,
+    "median_word_count": 16.0,
+    "median_char_count": 93.0,
+    "median_caps_ratio": 0.1313,
+    "question_rate": 0.0058,
+    "exclamation_rate": 0.0145,
+    "colon_rate": 0.0034,
+    "number_rate": 0.1133,
+    "top_first_words": {
+      "let": 33,
+      "the": 29,
+      "a": 22,
+      "when": 22,
+      "choodu": 20
+    },
+    "example_titles": [
+      "Sundarakanda - Full Album | Nara Rohith | Venkatesh Nimmalapudi | Leon James",
+      "Tholi Samaram - Audio Song | Yatra 2 | Mammootty | Jiiva | Mahi V Raghav | Santhosh Narayanan",
+      "Muddu Vaana - Audio Song | Thug Life (Telugu) | Kamal Haasan | Mani Ratnam | STR, Trisha | AR Rahman"
+    ]
+  },
+  {
+    "cluster_id": 36,
+    "median_word_count": 8.0,
+    "median_char_count": 50.0,
+    "median_caps_ratio": 0.3333,
+    "question_rate": 0.0121,
+    "exclamation_rate": 0.0121,
+    "colon_rate": 0.1613,
+    "number_rate": 0.9698,
+    "top_first_words": {
+      "the": 44,
+      "les": 20,
+      "le": 17,
+      "la": 13,
+      "stranger": 7
+    },
+    "example_titles": [
+      "THE PAPER Bande Annonce (2025) THE OFFICE Nouvelle S\u00e9rie",
+      "INSAISISSABLES 3 Bande Annonce VF (2025) Nouvelle",
+      "L'ENFANT DU D\u00c9SERT Bande Annonce (2026) Kev Adams"
+    ]
+  },
+  {
+    "cluster_id": 37,
+    "median_word_count": 3.0,
+    "median_char_count": 24.0,
+    "median_caps_ratio": 0.1429,
+    "question_rate": 0.0038,
+    "exclamation_rate": 0.0,
+    "colon_rate": 0.0058,
+    "number_rate": 0.0691,
+    "top_first_words": {
+      "the": 34,
+      "chikitu": 20,
+      "powerhouse": 20,
+      "coolie": 18,
+      "happy": 16
+    },
+    "example_titles": [
+      "Tadapaa (From 'Dil Madharaasi')",
+      "Megham Karukatha (From 'Thiruchitrambalam')",
+      "Enakenna Yaarum Illaye X Boomi Enna Suthudhe"
+    ]
+  },
+  {
+    "cluster_id": 38,
+    "median_word_count": 14.0,
+    "median_char_count": 90.0,
+    "median_caps_ratio": 0.2333,
+    "question_rate": 0.0588,
+    "exclamation_rate": 0.0183,
+    "colon_rate": 0.0963,
+    "number_rate": 0.1421,
+    "top_first_words": {
+      "the": 105,
+      "a": 72,
+      "die": 18,
+      "hal": 18,
+      "before": 18
+    },
+    "example_titles": [
+      "It\u2019s just her and Matthieu, man. BOTTOMS, starring #AyoEdebiri and #RachelSennott. | MUBI",
+      "New year dinner with parents, yay or nay? Episode 4 of THE NEW YEARS drops tomorrow. | MUBI",
+      "'The Most Romantic TV Shows of the year' - Vogue. THE NEW YEARS finale is now streaming. | MUBI"
+    ]
+  },
+  {
+    "cluster_id": 39,
+    "median_word_count": 7.0,
+    "median_char_count": 36.0,
+    "median_caps_ratio": 0.1515,
+    "question_rate": 0.006,
+    "exclamation_rate": 0.0098,
+    "colon_rate": 0.001,
+    "number_rate": 0.0607,
+    "top_first_words": {
+      "the": 147,
+      "chris": 74,
+      "sza": 68,
+      "tate": 66,
+      "doja": 46
+    },
+    "example_titles": [
+      "GRAZIX - VRUM VRUM",
+      "Tinashe - 2 On (Lyrics) ft. SchoolBoy Q",
+      "Russ - Missin You Crazy (Lyrics)"
+    ]
+  }
+]

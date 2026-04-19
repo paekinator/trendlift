@@ -26,5 +26,4 @@ frontend/.env
 backend/.env
 
 # Large local artifacts you may not want on GitHub
-backend/models/
 data/raw/
