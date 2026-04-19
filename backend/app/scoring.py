@@ -7,7 +7,7 @@ All JSON artifacts are loaded lazily on first call and cached for the
 lifetime of the process.  No I/O happens at import time.
 
 Importable with no side effects:
-    from backend.app.scoring import (
+    from app.scoring import (
         get_opportunity_score,
         get_breakout_niches,
         get_title_patterns,

@@ -4,7 +4,7 @@ backend/app/main.py
 TrendLift FastAPI backend.
 
 Run from the project root:
-    uvicorn backend.app.main:app --reload --port 8000
+    uvicorn app.main:app --reload --port 8000
 
 Note: Python treats backend/ and backend/app/ as namespace packages
 (PEP 420, Python 3.3+), so no __init__.py files are needed when the
@@ -21,13 +21,13 @@ from typing import Optional
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.app.scoring import (
+from app.scoring import (
     classify_query_cluster,
     get_breakout_niches,
     get_opportunity_score,
     get_title_patterns,
 )
-from backend.app.search import search_similar
+from app.search import search_similar
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -72,19 +72,28 @@ def _warm_up() -> None:
     )
 
     # Trigger lazy loading in scoring.py (loads all three JSON caches)
-    get_opportunity_score(0)
-    get_breakout_niches()
-    get_title_patterns(0)
+    try:
+        get_opportunity_score(0)
+        get_breakout_niches()
+        get_title_patterns(0)
+    except Exception as e:
+        print(f"Scoring warmup warning: {e}")
 
     # Trigger lazy loading in search.py (loads vectorizer + TF-IDF matrix)
-    search_similar("test", top_k=1)
+    try:
+        search_similar("test", top_k=1)
+    except Exception as e:
+        print(f"Search warmup warning: {e}")
 
     print("TrendLift API ready")
 
 
 @asynccontextmanager
 async def lifespan(_app: FastAPI):
-    _warm_up()
+    try:
+        _warm_up()
+    except Exception as e:
+        print(f"Startup warmup warning: {e}")
     yield   # serve requests
     # nothing to tear down
 
@@ -339,7 +348,7 @@ async def get_categories():
     in the current breakout table.
     """
     try:
-        from backend.app.category_map import CATEGORY_MAP
+        from app.category_map import CATEGORY_MAP
         return {"categories": sorted(set(CATEGORY_MAP.values()))}
     except Exception as exc:
         return {"error": str(exc)}

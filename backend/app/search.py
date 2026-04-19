@@ -5,7 +5,7 @@ Reusable similarity search over the TF-IDF indexed English trending corpus.
 Artifacts are loaded lazily on the first call to search_similar().
 
 Importable with no side effects:
-    from backend.app.search import search_similar
+    from app.search import search_similar
 
     results = search_similar("cooking challenge reaction", top_k=10)
 """
@@ -53,7 +53,17 @@ def _load_artifacts() -> None:
 
     # The clustered CSV has the same row order as the matrix (guaranteed by
     # build_clusters.py which resets the index before saving both).
-    _df = pd.read_csv(_CLUSTERED_CSV, low_memory=False)
+    _df = pd.read_csv(_CLUSTERED_CSV).reset_index(drop=True)
+
+    if len(_video_ids) != len(_df):
+        raise ValueError(
+            f"Artifact mismatch: english_video_ids has {len(_video_ids)} rows but clustered CSV has {len(_df)} rows"
+        )
+
+    if _tfidf_matrix.shape[0] != len(_df):
+        raise ValueError(
+            f"Artifact mismatch: tfidf_matrix has {_tfidf_matrix.shape[0]} rows but clustered CSV has {len(_df)} rows"
+        )
 
 
 def _safe_str(val: Any, default: str = "") -> str:
@@ -115,6 +125,9 @@ def search_similar(query: str, top_k: int = 10) -> list[dict]:
 
     _load_artifacts()
 
+    if _df is None or _video_ids is None or _tfidf_matrix is None or _vectorizer is None:
+        return []
+
     # Transform query → sparse row vector
     query_vec = _vectorizer.transform([query.strip()])
 
@@ -147,6 +160,9 @@ def search_similar(query: str, top_k: int = 10) -> list[dict]:
 
     results: list[dict] = []
     for vid, row_idx in seen.items():
+        row_idx = int(row_idx)
+        if row_idx < 0 or row_idx >= len(_df):
+            continue
         row = _df.iloc[row_idx]
         results.append(_row_to_dict(row))
 
