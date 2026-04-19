@@ -1,0 +1,18 @@
+{
+  "total_rows": 178399,
+  "unique_videos": 133188,
+  "unique_channels": 13077,
+  "english_country_rows": 65199,
+  "avg_likes_ratio": 0.07,
+  "avg_comments_ratio": 0.0,
+  "avg_trend_delay_days": 0.0,
+  "avg_country_count": 2.27,
+  "channel_tier_distribution": {
+    "dominant": 159346,
+    "breakout": 17717,
+    "emerging": 1152,
+    "established": 181
+  },
+  "rows_with_zero_trend_delay": 178399,
+  "rows_with_positive_trend_delay": 0
+}

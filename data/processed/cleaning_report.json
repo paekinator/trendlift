@@ -1,0 +1,137 @@
+{
+  "input_folder": "/Users/Hajin/trendlift/data/raw",
+  "output_csv": "/Users/Hajin/trendlift/data/processed/trending_2026_11c_clean.csv",
+  "files_processed": 11,
+  "countries": [
+    "BR",
+    "CA",
+    "DE",
+    "FR",
+    "GB",
+    "IN",
+    "JP",
+    "KR",
+    "MX",
+    "RU",
+    "US"
+  ],
+  "total_rows_final": 178399,
+  "total_unique_videos": 133188,
+  "total_unique_channels": 13089,
+  "merge_duplicates_removed": 0,
+  "rows_per_country": {
+    "BR": 16200,
+    "CA": 16200,
+    "DE": 16200,
+    "FR": 16200,
+    "GB": 16400,
+    "IN": 16199,
+    "JP": 16200,
+    "KR": 16200,
+    "MX": 16000,
+    "RU": 16200,
+    "US": 16400
+  },
+  "null_counts_final": {
+    "row_id": 0,
+    "country": 0,
+    "video_id": 0,
+    "channel_id": 0,
+    "channel_title": 0,
+    "title": 0,
+    "tags": 0,
+    "description": 0,
+    "category_id": 0,
+    "views": 0,
+    "likes": 0,
+    "dislikes": 0,
+    "comments": 0,
+    "publish_time": 0,
+    "trending_date": 0
+  },
+  "file_reports": [
+    {
+      "file": "BR_Trending.csv",
+      "country": "BR",
+      "raw_rows": 16200,
+      "clean_rows": 16200,
+      "dropped_rows": 0
+    },
+    {
+      "file": "CA_Trending.csv",
+      "country": "CA",
+      "raw_rows": 16200,
+      "clean_rows": 16200,
+      "dropped_rows": 0
+    },
+    {
+      "file": "DE_Trending.csv",
+      "country": "DE",
+      "raw_rows": 16200,
+      "clean_rows": 16200,
+      "dropped_rows": 0
+    },
+    {
+      "file": "FR_Trending.csv",
+      "country": "FR",
+      "raw_rows": 16200,
+      "clean_rows": 16200,
+      "dropped_rows": 0
+    },
+    {
+      "file": "GB_Trending.csv",
+      "country": "GB",
+      "raw_rows": 16400,
+      "clean_rows": 16400,
+      "dropped_rows": 0
+    },
+    {
+      "file": "IN_Trending.csv",
+      "country": "IN",
+      "raw_rows": 16199,
+      "clean_rows": 16199,
+      "dropped_rows": 0
+    },
+    {
+      "file": "JP_Trending.csv",
+      "country": "JP",
+      "raw_rows": 16200,
+      "clean_rows": 16200,
+      "dropped_rows": 0
+    },
+    {
+      "file": "KR_Trending.csv",
+      "country": "KR",
+      "raw_rows": 16200,
+      "clean_rows": 16200,
+      "dropped_rows": 0
+    },
+    {
+      "file": "MX_Trending.csv",
+      "country": "MX",
+      "raw_rows": 16000,
+      "clean_rows": 16000,
+      "dropped_rows": 0
+    },
+    {
+      "file": "RU_Trending.csv",
+      "country": "RU",
+      "raw_rows": 16200,
+      "clean_rows": 16200,
+      "dropped_rows": 0
+    },
+    {
+      "file": "US_Trending.csv",
+      "country": "US",
+      "raw_rows": 16400,
+      "clean_rows": 16400,
+      "dropped_rows": 0
+    }
+  ],
+  "date_ranges": {
+    "publish_time_min": "2006-08-25 14:14:26+00:00",
+    "publish_time_max": "2026-02-26 16:00:51+00:00",
+    "trending_date_min": "2026-02-26 00:00:00+00:00",
+    "trending_date_max": "2026-02-26 00:00:00+00:00"
+  }
+}
